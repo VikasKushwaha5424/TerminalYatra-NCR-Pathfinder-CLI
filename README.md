@@ -4,12 +4,19 @@ A Python CLI for the Delhi Metro network. 🚇 Find the shortest route by distan
 
 ✨ Features
 Dual Pathfinding Algorithms:
+
 •	Find the shortest path based on geographical distance.
+
 •	Find the most convenient path with the minimum number of interchanges.
+
 •	Detailed Travel Directions: Get clear, step-by-step instructions for your journey, including line changes.
+
 •	Fare Calculation: Automatically calculates the fare for the generated route based on the total distance.
+
 •	Interactive Station Selection: View a numbered list of all stations and select them by name or number.
+
 •	Full Network Visualization: Generate and save a high-resolution, color-coded map of the entire Delhi Metro network.
+
 •	Beautified CLI: A clean, user-friendly terminal interface with colors and formatted tables, powered by Colorama and Rich.
 
 
