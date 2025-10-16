@@ -21,11 +21,17 @@ Dual Pathfinding Algorithms:
 
 
 
+
 🛠️ Tech Stack
-Python: The core programming language.
-NetworkX: A powerful library for the creation, manipulation, and study of complex networks. Used for all pathfinding algorithms and graph modeling.
-Matplotlib: Used for generating the 2D plot of the metro network.
-Colorama & Rich: Used to create a beautiful and intuitive command-line user interface.
+
+•	Python: The core programming language.
+
+•	NetworkX: A powerful library for the creation, manipulation, and study of complex networks. Used for all pathfinding algorithms and graph modeling.
+
+•	Matplotlib: Used for generating the 2D plot of the metro network.
+
+•	Colorama & Rich: Used to create a beautiful and intuitive command-line user interface.
+
 
 
 How It Works: The Core Concepts
