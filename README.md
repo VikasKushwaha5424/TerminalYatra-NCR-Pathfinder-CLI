@@ -38,6 +38,6 @@ Dual Pathfinding Algorithms:
 
  ## Credit
  #### - Vikas Kushwaha
- #### - connect with me [LinkedIn](www.linkedin.com/in/vikaskushwaha5424)
+ #### - connect with me on linkedln www.linkedin.com/in/vikaskushwaha5424
 
 
