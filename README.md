@@ -66,6 +66,35 @@ The code parses these names to automatically build the graphs.
 
 ---
 
+##  Highlights
+#### Start
+#### option 1 - Find Shortest Path & Directions (by Distance)
+<img width="866" height="936" alt="Screenshot 2025-10-21 141615" src="https://github.com/user-attachments/assets/3cb53f1c-82fa-4863-ab4a-c158e6853278" />
+
+
+#### option 2 - Find Path with Minimum Interchanges
+<img width="889" height="944" alt="Screenshot 2025-10-21 141650" src="https://github.com/user-attachments/assets/af6670c4-26f5-4302-98f6-e995a45de416" />
+
+
+#### option 3 - Show All Stations (with numbers) - totall 260 stations 
+<img width="1022" height="937" alt="Screenshot 2025-10-21 141721" src="https://github.com/user-attachments/assets/c6cd72d6-ef4d-454a-b10b-8378c49f8eee" />
+
+
+#### option 4 -  Show Fare Slabs
+<img width="882" height="939" alt="Screenshot 2025-10-21 141805" src="https://github.com/user-attachments/assets/0635b871-f747-449e-a754-49b9a3a9c890" />
+
+
+#### option 5 -   Visualize Metro Map (Save as PNG)
+<img width="865" height="859" alt="Screenshot 2025-10-21 142028" src="https://github.com/user-attachments/assets/03f503ab-c797-4495-9034-0e2605d67962" />
+
+
+#### option 6 -   Visualize Last Journey
+####  overall map with path highlighted
+<img width="1918" height="1019" alt="Screenshot 2025-10-21 141900" src="https://github.com/user-attachments/assets/821e68b8-e49c-4e79-a556-e242347b90ca" />
+
+####  zoomed in
+<img width="1150" height="592" alt="Screenshot 2025-10-21 141923" src="https://github.com/user-attachments/assets/851956f4-50c4-46be-9055-a36ce00941ad" />
+
 
 
 
