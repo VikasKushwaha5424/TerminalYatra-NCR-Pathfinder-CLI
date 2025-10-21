@@ -1,0 +1,306 @@
+station_u,station_v,distance_km
+# --- red line connections ---
+shaheed sthal (new bus adda)_red,hindon river_red,1.0
+hindon river_red,arthala_red,1.5
+arthala_red,mohan nagar_red,0.7
+mohan nagar_red,shyam park_red,1.3
+shyam park_red,major mohit sharma rajendra nagar_red,1.2
+major mohit sharma rajendra nagar_red,raj bagh_red,1.2
+raj bagh_red,shaheed nagar_red,1.3
+shaheed nagar_red,dilshad garden_red,1.2
+dilshad garden_red,jhilmil_red,0.9
+jhilmil_red,mansarovar park_red,1.1
+mansarovar park_red,shahdara_red,1.1
+shahdara_red,welcome_(interchange red pink),1.2
+welcome_(interchange red pink),seelampur_red,1.1
+seelampur_red,shastri park_red,1.6
+shastri park_red,kashmere gate_(interchange red yellow violet),2.1
+kashmere gate_(interchange red yellow violet),tis hazari_red,1.2
+tis hazari_red,pul bangash_red,0.9
+pul bangash_red,pratap nagar_red,0.8
+pratap nagar_red,shastri nagar_red,1.7
+shastri nagar_red,inderlok_(interchange red green),1.2
+inderlok_(interchange red green),kanhaiya nagar_red,1.2
+kanhaiya nagar_red,keshav puram_red,0.7
+keshav puram_red,netaji subhash place_(interchange red pink),1.2
+netaji subhash place_(interchange red pink),kohat enclave_red,1.2
+kohat enclave_red,pitam pura_red,1.0
+pitam pura_red,rohini east_red,0.8
+rohini east_red,rohini west_red,1.3
+rohini west_red,rithala_red,1.0
+# --- yellow line connections ---
+samaypur badli_yellow,rohini sector 18 19_yellow,0.8
+rohini sector 18 19_yellow,haiderpur badli mor_yellow,1.3
+haiderpur badli mor_yellow,jahangirpuri_yellow,1.3
+jahangirpuri_yellow,adarsh nagar_yellow,1.3
+adarsh nagar_yellow,azadpur_(interchange yellow magenta pink),1.5
+azadpur_(interchange yellow magenta pink),model town_yellow,1.4
+model town_yellow,guru teg bahadur nagar_yellow,1.4
+guru teg bahadur nagar_yellow,vishwavidyalaya_yellow,0.8
+vishwavidyalaya_yellow,vidhan sabha_yellow,1.0
+vidhan sabha_yellow,civil lines_yellow,1.3
+civil lines_yellow,kashmere gate_(interchange red yellow violet),1.1
+kashmere gate_(interchange red yellow violet),chandni chowk_yellow,1.1
+chandni chowk_yellow,chawri bazar_yellow,1.0
+chawri bazar_yellow,new delhi_(interchange yellow orange),0.8
+new delhi_(interchange yellow orange),rajiv chowk_(interchange yellow blue),1.1
+rajiv chowk_(interchange yellow blue),patel chowk_yellow,1.3
+patel chowk_yellow,central secretariat_(interchange yellow violet),0.9
+central secretariat_(interchange yellow violet),udyog bhawan_yellow,0.3
+udyog bhawan_yellow,lok kalyan marg_yellow,1.6
+lok kalyan marg_yellow,jor bagh_yellow,1.2
+jor bagh_yellow,dilli haat - ina_(interchange yellow pink),1.3
+dilli haat - ina_(interchange yellow pink),aiims_yellow,0.8
+aiims_yellow,green park_yellow,1.0
+green park_yellow,hauz khas_(interchange yellow magenta),1.8
+hauz khas_(interchange yellow magenta),malviya nagar_yellow,1.7
+malviya nagar_yellow,saket_yellow,0.9
+saket_yellow,qutab minar_yellow,1.7
+qutab minar_yellow,chhattarpur_yellow,1.3
+chhattarpur_yellow,sultanpur_yellow,1.6
+sultanpur_yellow,ghitorni_yellow,1.3
+ghitorni_yellow,arjan garh_yellow,2.7
+arjan garh_yellow,guru dronacharya_yellow,2.3
+guru dronacharya_yellow,sikandarpur_(interchange yellow grey),1.0
+sikandarpur_(interchange yellow grey),mg road_yellow,1.2
+mg road_yellow,iffco chowk_yellow,1.1
+iffco chowk_yellow,millennium city centre gurugram_yellow,1.5
+# --- blue line main route (line 3: dwarka sector 21 to noida electronic city) ---
+dwarka sector 21_(interchange blue orange),dwarka sector 8_blue,1.2
+dwarka sector 8_blue,dwarka sector 9_blue,1.0
+dwarka sector 9_blue,dwarka sector 10_blue,1.0
+dwarka sector 10_blue,dwarka sector 11_blue,0.8
+dwarka sector 11_blue,dwarka sector 12_blue,1.0
+dwarka sector 12_blue,dwarka sector 13_blue,0.9
+dwarka sector 13_blue,dwarka sector 14_blue,1.1
+dwarka sector 14_blue,dwarka_(interchange blue grey),1.2
+dwarka_(interchange blue grey),dwarka mor_blue,1.0
+dwarka mor_blue,nawada_blue,1.1
+nawada_blue,uttam nagar west_blue,1.0
+uttam nagar west_blue,uttam nagar east_blue,0.8
+uttam nagar east_blue,janakpuri west_(interchange blue magenta),1.0
+janakpuri west_(interchange blue magenta),janakpuri east_blue,1.0
+janakpuri east_blue,tilak nagar_blue,1.1
+tilak nagar_blue,subhash nagar_blue,1.0
+subhash nagar_blue,tagore garden_blue,1.0
+tagore garden_blue,rajouri garden_(interchange blue pink),1.1
+rajouri garden_(interchange blue pink),ramesh nagar_blue,1.0
+ramesh nagar_blue,moti nagar_blue,1.0
+moti nagar_blue,kirti nagar_(interchange blue green),0.9
+kirti nagar_(interchange blue green),shadipur_blue,1.0
+shadipur_blue,patel nagar_blue,1.0
+patel nagar_blue,rajendra place_blue,1.1
+rajendra place_blue,karol bagh_blue,1.1
+karol bagh_blue,jhandewalan_blue,1.2
+jhandewalan_blue,ramakrishna ashram marg_blue,1.3
+ramakrishna ashram marg_blue,rajiv chowk_(interchange yellow blue),1.1
+rajiv chowk_(interchange yellow blue),barakhamba road_blue,1.0
+barakhamba road_blue,mandi house_(interchange blue violet),1.0
+mandi house_(interchange blue violet),supreme court (pragati maidan)_blue,0.8
+supreme court (pragati maidan)_blue,indraprastha_blue,0.8
+indraprastha_blue,yamuna bank_(interchange blue),2.2
+yamuna bank_(interchange blue),akshardham_blue,1.3
+akshardham_blue,mayur vihar i_(interchange blue pink),1.8
+mayur vihar i_(interchange blue pink),mayur vihar extension_blue,1.2
+mayur vihar extension_blue,new ashok nagar_blue,1.6
+new ashok nagar_blue,noida sector 15_blue,1.3
+noida sector 15_blue,noida sector 16_blue,1.0
+noida sector 16_blue,noida sector 18_blue,1.0
+noida sector 18_blue,botanical garden_(interchange blue magenta),1.3
+botanical garden_(interchange blue magenta),golf course_blue,1.0
+golf course_blue,noida city centre_blue,1.1
+noida city centre_blue,noida sector 34_blue,1.2
+# --- FIX: Unifying Noida 51/52 Interchange ---
+noida sector 34_blue,noida sector 51-52_(interchange blue aqua),1.5
+noida sector 51-52_(interchange blue aqua),noida sector 61_blue,1.0
+# --- (End of fix) ---
+noida sector 61_blue,noida sector 59_blue,1.2
+noida sector 59_blue,noida sector 62_blue,1.3
+noida sector 62_blue,noida electronic city_blue,0.9
+# --- blue line branch route (line 4: yamuna bank to vaishali) ---
+yamuna bank_(interchange blue),laxmi nagar_blue,2.2
+laxmi nagar_blue,nirman vihar_blue,1.0
+nirman vihar_blue,preet vihar_blue,1.0
+preet vihar_blue,karkardooma_(interchange blue pink),1.0
+karkardooma_(interchange blue pink),anand vihar isbt_(interchange blue pink),1.0
+anand vihar isbt_(interchange blue pink),kaushambi_blue,1.0
+kaushambi_blue,vaishali_blue,1.0
+# --- green line main route (inderlok to brigadier hoshiyar singh) ---
+inderlok_(interchange red green),ashok park main_green,1.0
+ashok park main_green,punjabi bagh_green,1.0
+punjabi bagh_green,punjabi bagh west_(interchange green pink),1.1
+punjabi bagh west_(interchange green pink),shivaji park_green,1.0
+shivaji park_green,madipur_green,0.8
+madipur_green,paschim vihar east_green,0.9
+paschim vihar east_green,paschim vihar west_green,0.8
+# --- FIX: Simplifying Peera Garhi ---
+paschim vihar west_green,peera garhi_green,1.0
+peera garhi_green,udyog nagar_green,1.0
+# --- (End of fix) ---
+udyog nagar_green,maharaja surajmal stadium_green,1.0
+maharaja surajmal stadium_green,nangloi_green,1.0
+nangloi_green,nangloi railway station_green,0.8
+nangloi railway station_green,rajdhani park_green,0.9
+rajdhani park_green,mundka_green,1.0
+mundka_green,mundka industrial area (mia)_green,1.0
+mundka industrial area (mia)_green,ghevra_green,1.0
+ghevra_green,tikri kalan_green,1.1
+tikri kalan_green,tikri border_green,1.0
+tikri border_green,pandit shree ram sharma_green,1.0
+pandit shree ram sharma_green,bahadurgarh city_green,1.0
+bahadurgarh city_green,brigadier hoshiyar singh_green,1.0
+# --- green line branch route (ashok park main to kirti nagar) ---
+ashok park main_green,satguru ram singh marg_green,1.1
+satguru ram singh marg_green,kirti nagar_(interchange blue green),1.1
+# --- violet line connections (kashmere gate to raja nahar singh) ---
+kashmere gate_(interchange red yellow violet),lal quila_violet,1.5
+lal quila_violet,jama masjid_violet,0.8
+jama masjid_violet,delhi gate_violet,1.4
+delhi gate_violet,ito_violet,1.3
+ito_violet,mandi house_(interchange blue violet),0.8
+mandi house_(interchange blue violet),janpath_violet,1.4
+janpath_violet,central secretariat_(interchange yellow violet),1.3
+central secretariat_(interchange yellow violet),khan market_violet,2.1
+khan market_violet,jawaharlal nehru stadium_violet,1.4
+jawaharlal nehru stadium_violet,jangpura_violet,0.9
+jangpura_violet,lajpat nagar_(interchange violet pink),1.5
+lajpat nagar_(interchange violet pink),moolchand_violet,0.7
+moolchand_violet,kailash colony_violet,1.3
+kailash colony_violet,nehru place_violet,1.0
+nehru place_violet,kalkaji mandir_(interchange violet magenta),0.8
+kalkaji mandir_(interchange violet magenta),govind puri_violet,0.7
+govind puri_violet,harkesh nagar okhla_violet,1.1
+harkesh nagar okhla_violet,jasola apollo_violet,0.9
+jasola apollo_violet,sarita vihar_violet,1.2
+sarita vihar_violet,mohan estate_violet,1.2
+mohan estate_violet,tughlakabad_violet,1.9
+tughlakabad_violet,badarpur border_violet,1.1
+badarpur border_violet,sarai_violet,2.5
+sarai_violet,nhpc chowk_violet,1.6
+nhpc chowk_violet,mewala maharajpur_violet,0.9
+mewala maharajpur_violet,sector 28_violet,1.2
+sector 28_violet,badkhal mor_violet,1.7
+badkhal mor_violet,old faridabad_violet,1.2
+old faridabad_violet,neelam chowk ajronda_violet,1.6
+neelam chowk ajronda_violet,bata chowk_violet,1.3
+bata chowk_violet,escorts mujesar_violet,1.8
+escorts mujesar_violet,sant surdas sihi_violet,1.7
+sant surdas sihi_violet,raja nahar singh (ballabhgarh)_violet,1.7
+# --- orange line connections ---
+new delhi_(interchange yellow orange),shivaji stadium_orange,1.9
+# --- FIX: Unifying Dhaula Kuan/South Campus Interchange ---
+shivaji stadium_orange,dhaula kuan-south campus_(interchange pink orange),6.4
+dhaula kuan-south campus_(interchange pink orange),delhi aerocity_orange,6.2
+# --- (End of fix) ---
+delhi aerocity_orange,igi airport (terminal 3)_orange,3.4
+igi airport (terminal 3)_orange,dwarka sector 21_(interchange blue orange),2.9
+dwarka sector 21_(interchange blue orange),yashobhoomi dwarka sector - 25_orange,2.0
+# --- magenta line connections (janakpuri west to botanical garden) ---
+janakpuri west_(interchange blue magenta),dabri mor janakpuri south_magenta,1.4
+dabri mor janakpuri south_magenta,dashrath puri_magenta,1.2
+dashrath puri_magenta,palam_magenta,1.5
+palam_magenta,sadar bazaar cantonment_magenta,2.6
+sadar bazaar cantonment_magenta,terminal 1-igi airport_magenta,1.7
+terminal 1-igi airport_magenta,shankar vihar_magenta,1.8
+shankar vihar_magenta,vasant vihar_magenta,2.1
+vasant vihar_magenta,munirka_magenta,1.2
+munirka_magenta,r. k. puram_magenta,1.2
+r. k. puram_magenta,iit delhi_magenta,0.9
+iit delhi_magenta,hauz khas_(interchange yellow magenta),1.3
+hauz khas_(interchange yellow magenta),panchsheel park_magenta,1.0
+panchsheel park_magenta,chirag delhi_magenta,0.9
+chirag delhi_magenta,greater kailash_magenta,1.4
+greater kailash_magenta,nehru enclave_magenta,0.7
+nehru enclave_magenta,kalkaji mandir_(interchange violet magenta),1.0
+kalkaji mandir_(interchange violet magenta),okhla nsic_magenta,0.7
+okhla nsic_magenta,sukhdev vihar_magenta,1.0
+sukhdev vihar_magenta,jamia millia islamia_magenta,1.1
+jamia millia islamia_magenta,okhla vihar_magenta,0.6
+okhla vihar_magenta,jasola vihar shaheen bagh_magenta,1.4
+jasola vihar shaheen bagh_magenta,kalindi kunj_magenta,1.3
+kalindi kunj_magenta,okhla bird sanctuary_magenta,1.4
+okhla bird sanctuary_magenta,botanical garden_(interchange blue magenta),1.5
+# --- pink line connections (majlis park to shiv vihar) ---
+# --- FIX: Simplifying Majlis Park ---
+majlis park_pink,azadpur_(interchange yellow magenta pink),1.6
+# --- (End of fix) ---
+azadpur_(interchange yellow magenta pink),shalimar bagh_pink,1.5
+shalimar bagh_pink,netaji subhash place_(interchange red pink),1.2
+netaji subhash place_(interchange red pink),shakurpur_pink,1.5
+shakurpur_pink,punjabi bagh west_(interchange green pink),1.4
+punjabi bagh west_(interchange green pink),esi - basaidarapur_pink,1.7
+esi - basaidarapur_pink,rajouri garden_(interchange blue pink),1.1
+rajouri garden_(interchange blue pink),mayapuri_pink,1.5
+mayapuri_pink,naraina vihar_pink,1.4
+naraina vihar_pink,delhi cantonment_pink,1.8
+# --- FIX: Unifying Dhaula Kuan/South Campus Interchange ---
+delhi cantonment_pink,dhaula kuan-south campus_(interchange orange pink),3.6
+dhaula kuan-south campus_(interchange orange pink),sir m. vishweshwaraiah moti bagh_pink,1.1
+# --- (End of fix) ---
+sir m. vishweshwaraiah moti bagh_pink,bhikaji cama place_pink,1.3
+bhikaji cama place_pink,sarojini nagar_pink,1.2
+sarojini nagar_pink,dilli haat - ina_(interchange yellow pink),1.1
+dilli haat - ina_(interchange yellow pink),south extension_pink,1.2
+south extension_pink,lajpat nagar_(interchange violet pink),1.6
+lajpat nagar_(interchange violet pink),vinobapuri_pink,1.4
+vinobapuri_pink,ashram_pink,1.2
+ashram_pink,sarai kale khan - nizamuddin_pink,1.9
+sarai kale khan - nizamuddin_pink,mayur vihar i_(interchange blue pink),3.6
+mayur vihar i_(interchange blue pink),mayur vihar pocket i_pink,0.8
+mayur vihar pocket i_pink,trilokpuri sanjay lake_pink,1.1
+trilokpuri sanjay lake_pink,east vinod nagar - mayur vihar-ii_pink,0.7
+east vinod nagar - mayur vihar-ii_pink,mandawali - west vinod nagar_pink,0.6
+mandawali - west vinod nagar_pink,ip extension_pink,1.0
+ip extension_pink,anand vihar isbt_(interchange blue pink),1.6
+anand vihar isbt_(interchange blue pink),karkardooma_(interchange blue pink),1.0
+karkardooma_(interchange blue pink),karkardooma court_pink,1.1
+karkardooma court_pink,krishna nagar_pink,0.7
+krishna nagar_pink,east azad nagar_pink,1.0
+east azad nagar_pink,welcome_(interchange red pink),1.1
+welcome_(interchange red pink),jaffrabad_pink,1.2
+jaffrabad_pink,maujpur - babarpur_pink,1.1
+maujpur - babarpur_pink,gokulpuri_pink,1.3
+gokulpuri_pink,johri enclave_pink,1.3
+johri enclave_pink,shiv vihar_pink,0.9
+# --- grey line connections (dwarka to dhansa bus stand) ---
+dwarka_(interchange blue grey),nangli_grey,1.3
+nangli_grey,najafgarh_grey,1.0
+najafgarh_grey,dhansa bus stand_grey,2.1
+# --- FIX: Adding Sikanderpur Rapid Metro (Grey Line) Connections ---
+# --- grey line connections (rapid metro spur) ---
+sikandarpur_(interchange yellow grey),Phase 1_grey,1.1
+Phase 1_grey,Sector 42-43_grey,1.0
+Sector 42-43_grey,Sector 53-54_grey,1.0
+Sector 53-54_grey,Sector 54 Chowk_grey,1.0
+Sector 54 Chowk_grey,Sector 55-56_grey,1.1
+# --- grey line connections (rapid metro loop) ---
+sikandarpur_(interchange yellow grey),Phase 2_grey,1.0
+Phase 2_grey,Belvedere Towers_grey,1.0
+Belvedere Towers_grey,Cyber City_grey,1.1
+Cyber City_grey,Moulsari Avenue_grey,1.0
+Moulsari Avenue_grey,Phase 3_grey,1.0
+Phase 3_grey,sikandarpur_(interchange yellow grey),1.1
+# --- (End of fix) ---
+# --- aqua line connections (noida sector 51 to depot station) ---
+# --- FIX: Unifying Noida 51/52 Interchange ---
+noida sector 51-52_(interchange blue aqua),noida sector 50_aqua,1.1
+# --- (End of fix) ---
+noida sector 50_aqua,noida sector 76_aqua,1.2
+noida sector 76_aqua,noida sector 101_aqua,1.0
+noida sector 101_aqua,noida sector 81_aqua,1.1
+noida sector 81_aqua,nsez_aqua,0.9
+nsez_aqua,noida sector 83_aqua,1.2
+noida sector 83_aqua,noida sector 137_aqua,1.1
+noida sector 137_aqua,noida sector 142_aqua,1.0
+noida sector 142_aqua,noida sector 143_aqua,1.0
+noida sector 143_aqua,noida sector 144_aqua,1.1
+noida sector 144_aqua,noida sector 145_aqua,1.0
+noida sector 145_aqua,noida sector 146_aqua,1.1
+noida sector 146_aqua,noida sector 147_aqua,1.0
+noida sector 147_aqua,noida sector 148_aqua,1.1
+noida sector 148_aqua,knowledge park ii_aqua,1.2
+knowledge park ii_aqua,pari chowk_aqua,1.0
+pari chowk_aqua,alpha 1_aqua,0.9
+alpha 1_aqua,delta 1_aqua,1.0
+delta 1_aqua,gnida office_aqua,0.8
+gnida office_aqua,depot station_aqua,1.1
